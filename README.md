@@ -1,4 +1,4 @@
-This repository contains two files:
+This repository contains three files:
 
 1. 'Generic_Functions_Huffpost.py' contains all the general purpose functions used in classification of huffpost news.
 
